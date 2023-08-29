@@ -19,9 +19,9 @@ The project addresses the need to analyze vast amounts of e-commerce data effici
 
 ## Data Sources
 The project utilizes data from three distinct sources:
-* Olist Orders: Kaggle Dataset
-* Olist Marketing Funnel: Kaggle Dataset
-* Brazilian Population Data: Population Data
+* Olist Orders: Kaggle Dataset https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=product_category_name_translation.csv
+* Olist Marketing Funnel: Kaggle Dataset https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist?select=olist_marketing_qualified_leads_dataset.csv
+* Brazilian Population Data: Population Data by zipcode https://postal-codes.cybo.com/brazil/?p=4
 
 ## Data Description
 The project encompasses data related to orders, sellers, products, reviews, and regional demographics. Datasets include customer information, order details, reviews, seller interactions, and regional population data.
